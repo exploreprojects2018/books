@@ -1,11 +1,6 @@
 # books
 The fast.ai deep learning library, lessons, and tutorials.
 
-Copyright 2017 onwards, Jeremy Howard. Licensed under the Apache License, Version 2.0 (the "License"); you may not use this file except in compliance with the License. A copy of the License is provided in the LICENSE file in this repository.
-
-Current Status
-This is an alpha version.
-
 Most of the library is quite well tested since many students have used it to complete the Practical Deep Learning for Coders course. However it hasn't been widely used yet outside of the course, so you may find some missing features or rough edges.
 
 If you're interested in using the library in your own projects, we're happy to help support any bug fixes or feature additions you need—please use http://forums.fast.ai to discuss.
@@ -14,7 +9,7 @@ To install
 Prerequisites
 Anaconda, manages Python environment and dependencies
 Normal installation
-Download project: git clone https://github.com/fastai/fastai.git
+Download project: git clone https://github.com/exploreprojects2018/books/
 Move into root folder: cd fastai
 Set up Python environment: conda env update
 Activate Python environment: conda activate fastai
@@ -28,7 +23,7 @@ However this is not currently the recommended approach, since the library is bei
 
 An alternative is to use the latest Github version with pip
 
-pip install git+https://github.com/fastai/fastai.git
+pip install git+https://github.com/exploreprojects2018/books/
 
 CPU only environment
 Use this if you do not have an NVidia GPU. Note you are encouraged to use Paperspace to access a GPU in the cloud by following this guide.
